@@ -1,4 +1,3 @@
-import 'dart:async';
 
 import 'package:country_list/network/api_helper.dart';
 import 'package:country_list/utils/constants.dart';
